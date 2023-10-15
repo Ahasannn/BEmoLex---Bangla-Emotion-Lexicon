@@ -21,8 +21,7 @@ the lexicon, we have manually incorporated handpicked strong emotive words, and 
 
 ## Samples of Lexicon Entries
 
-
-
+![Alt Text](../images/lexicon_examples.png)
 
 ## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
