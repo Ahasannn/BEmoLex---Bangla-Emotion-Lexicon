@@ -1,1 +1,1 @@
-# BEmoLex---Bangla-Emotion-Lexicon
+# BEmoLex - Bangla Emotion Lexicon
