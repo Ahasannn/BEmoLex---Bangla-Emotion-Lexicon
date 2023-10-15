@@ -19,6 +19,10 @@ the lexicon, we have manually incorporated handpicked strong emotive words, and 
 | Trust           | 543   |
 | Anticipation    | 724   |
 
+## Samples of Lexicon Entries
+
+
+
 
 ## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
