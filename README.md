@@ -5,8 +5,22 @@ Anger, Sadness, Fear, Disgust, Trust, and Anticipation. A semi-automatic transla
 lexicon by leveraging existing English lexical resources. To enhance the coverage and diversity of
 the lexicon, we have manually incorporated handpicked strong emotive words, and expanded terms with Bangla synonyms.
 
+## Emotion Distribution in the Lexicon
+
+| Emotion         | Count |
+|-----------------|-------|
+| Love            | 356   |
+| Joy             | 603   |
+| Surprise        | 301   |
+| Anger           | 756   |
+| Sadness         | 788   |
+| Fear            | 752   |
+| Disgust         | 513   |
+| Trust           | 543   |
+| Anticipation    | 724   |
 
 
+## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
